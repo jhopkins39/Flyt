@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "flyt": "flyt-15b2c",
+    "default": "flyt-15b2c"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "925313285772",
+    "firebase_url": "https://flyt-15b2c.firebaseio.com",
+    "project_id": "flyt-15b2c",
+    "storage_bucket": "flyt-15b2c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:925313285772:android:8b90d1ea92ff72da6f45a9",
+        "android_client_info": {
+          "package_name": "com.flyt.flyt.myapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "925313285772-45tr243ri359sfpkua73krgunkftbbbd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsVs6uYWCR2mU8mnL_f_oBku3BrcJXAW4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "925313285772-45tr243ri359sfpkua73krgunkftbbbd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "925313285772-ic2jfi9sft83isoupdvc02hh0cvg1ke9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flyt.flyt.myapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
